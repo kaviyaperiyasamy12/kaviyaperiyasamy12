@@ -10,7 +10,7 @@
 kaviyaperiyasamy12/kaviyaperiyasamy12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# My Stats
+## My Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kaviyaperiyasamy?theme=dark&font=Biryani)
 
