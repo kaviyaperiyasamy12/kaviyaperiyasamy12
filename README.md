@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @kaviyaperiyasamy12
+- 👋 Hi, I’m Kaviya
 - 👀 I’m interested in software developing 
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on IT Companys
+- 💞️ I’m looking to collaborate on IT Companies
 - 📫 How to reach me 9345585604
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Techie
+- ⚡ Fun fact: I love singing
 
 <!---
 kaviyaperiyasamy12/kaviyaperiyasamy12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
