@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developing 
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on IT Companies
-- 📫 How to reach me 9345585604
+- 📫 How to reach me https://www.linkedin.com/in/kaviya-periyasamy-725378278/
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I love singing
 
